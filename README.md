@@ -7,10 +7,10 @@ Dengeli bir dağılım içi rootu ortalama bir sayı seçmeliyiz. Bu sayı 5 ola
 
 Root'un sağ tarafında root'tan büyük sayılar; sol tarafında root'tan küçük sayılar olacak.
  
-           5 
+             5 
            
-        3           8
+          3           8
         
-     1    4      7      9
-     
-   0          6
+       1    4      7      9
+       
+     0          6
